@@ -1,0 +1,16 @@
+E:\Visual Studio\软件窗体框架\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.UI.Form2.resources
+E:\Visual Studio\软件窗体框架\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.UI.Form3.resources
+E:\Visual Studio\软件窗体框架\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.UI.Form4.resources
+E:\Visual Studio\软件窗体框架\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.UI.Form5.resources
+E:\Visual Studio\软件窗体框架\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.UI.Form6.resources
+E:\Visual Studio\软件窗体框架\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.UI.Form7.resources
+E:\Visual Studio\软件窗体框架\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.UI.Form8.resources
+E:\Visual Studio\软件窗体框架\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+E:\Visual Studio\软件窗体框架\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Visual Studio\软件窗体框架\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.UI.Form1.resources
+E:\Visual Studio\软件窗体框架\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Visual Studio\软件窗体框架\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Visual Studio\软件窗体框架\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Visual Studio\软件窗体框架\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Visual Studio\软件窗体框架\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Visual Studio\软件窗体框架\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
